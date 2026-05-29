@@ -55,9 +55,11 @@
 
 A few things I've built that I'm proud of:
  
-- 🏏 [**Cricket Player Detection & Multi-Object Tracking System**](#) — real-time player detection in cricket match videos using YOLO + BoT-SORT tracking to maintain consistent player IDs across frames, with ROI-based filtering and camera motion handling · `Python` `YOLO` `OpenCV` `BoT-SORT`
-- 📉 [**Structural Break Detection in Time Series**](#) — end-to-end ML pipeline for structural break detection; engineered statistical features with TSFresh and trained a LightGBM model achieving ~75% ROC-AUC · `Python` `TSFresh` `LightGBM` `Pandas` `NumPy` `Scikit-learn` `Optuna`
-- 🛡️ [**System Threat Forecaster**](#) — supervised classification pipeline predicting malware infection from system telemetry features; aligned with Kaggle submission format · `Python` `Pandas` `NumPy` `Scikit-learn`
-- 🅿️ [**Parking Management System**](#) — multi-user parking platform with async task processing via Redis & Celery, real-time updates, and responsive frontend · `Flask` `Vue.js` `SQLite` `Redis` `Celery` `Bootstrap`
+- 🏏 [**Cricket Player Detection & Multi-Object Tracking System**](https://github.com/hemlata-mahawar/Player_detection_and_tracking) — real-time player detection in cricket match videos using YOLO + BoT-SORT tracking to maintain consistent player IDs across frames, with ROI-based filtering and camera motion handling · `Python` `YOLO` `OpenCV` `BoT-SORT`
+- 📉 [**Structural Break Detection in Time Series**](https://github.com/hemlata-mahawar/Structural-Break-Detection-Pipeline-Time-Series) — end-to-end ML pipeline for structural break detection; engineered statistical features with TSFresh and trained a LightGBM model achieving ~75% ROC-AUC · `Python` `TSFresh` `LightGBM` `Pandas` `NumPy` `Scikit-learn` `Optuna`
+- 🛡️ [**System Threat Forecaster**](https://github.com/hemlata-mahawar/System-Threat-Forecaster) — supervised classification pipeline predicting malware infection from system telemetry features; aligned with Kaggle submission format · `Python` `Pandas` `NumPy` `Scikit-learn`
+- 🅿️ [**Parking Management System**](https://github.com/hemlata-mahawar/PARC) — multi-user parking platform with async task processing via Redis & Celery, real-time updates, and responsive frontend · `Flask` `Vue.js` `SQLite` `Redis` `Celery` `Bootstrap`
+- 🍎 [**Fruit Business Data Analysis**](https://github.com/hemlata-mahawar/Fruit-Business-Data-Analysis) — 5-month analysis of a fruit-selling business to optimize inventory, reduce spoilage (0.96% ratio), and improve profitability (₹1.51L net profit, ~17.9% margin) using pivot tables, KPIs, and visualizations · `Google Sheets` `Pivot Tables` `Data Visualization` `Financial Analysis`
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89F7FE,100:66A6FF&height=100&section=footer&animation=fadeIn" width="100%"/>
