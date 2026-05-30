@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89F7FE,100:66A6FF&height=100&section=header&text=Hey,%20I'm%20Hemlata%20Mahawar!&fontSize=35&fontColor=1d3557&animation=fadeIn&fontAlignY=30&desc=ML%20/%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Web%20Developer&descAlignY=68&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89F7FE,100:66A6FF&height=100&section=header&text=Hey,%20I'm%20Hemlata%20Mahawar!&fontSize=35&fontColor=1d3557&animation=fadeIn&fontAlignY=30&desc=ML%20/%20AI%20Engineer%20%7C%20Data%20Engineer%20%7C%20Web%20Developer&descAlignY=68&descSize=18" width="100%"/>
 <img align="right" alt="AI Coding" width="200" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
 
 ### ML / AI Engineer — building intelligent systems that actually work in production
