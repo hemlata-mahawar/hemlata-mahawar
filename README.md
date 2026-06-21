@@ -16,7 +16,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/hemlata-mahawar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://alexcarter.dev" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
+  <a href="https://hemlatamahawar.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
   <a href="mailto:mahawarhemlata22@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
